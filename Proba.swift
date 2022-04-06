@@ -1,3 +1,3 @@
-print("Hello123")
-print("Cao iz test grane")
-
+print("Cao ponovo")
+print("Ovo je novo..")
+print("Ovo je nova grana")
